@@ -1,0 +1,11 @@
+.git
+README.md
+.gitlab-ci.yml
+docker-compose.yml
+.dockerignore
+node_modules
+.gitignore
+PROMPTS.md
+*.log
+BUSINESSLOGIC.MD
+CLEANONIONRESTO.MD
