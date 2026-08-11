@@ -48,3 +48,8 @@ __screenshots__/
 # READMEs
 BUSINESSLOGIC.MD
 CLEANONIONRESTO.MD
+
+# Docker
+docker-compose.yml
+Dockerfile
+.dockerignore
