@@ -2,7 +2,7 @@
 
 ## Public URL
 
-https://krpetg-vue-restaurant1.proxy.itcollege.ee/
+-
 
 A restaurant management web application built with **Vue 3**, **Vite**, and **TypeScript**.
 
